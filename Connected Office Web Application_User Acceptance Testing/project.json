@@ -1,7 +1,7 @@
 {
   "name": "Connected Office Web Application_User Acceptance Testing",
-  "description": "Blank Process",
-  "main": "Process.xaml",
+  "description": "User acceptance testing for all connected devices",
+  "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.1]",
@@ -47,8 +47,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Process.xaml",
-      "uniqueId": "8de7b67b-3562-400b-8115-fb13c75eab7f",
+      "filePath": "Main.xaml",
+      "uniqueId": "3f3509c5-62e8-4161-acf8-479585965ecd",
       "input": [],
       "output": []
     }
